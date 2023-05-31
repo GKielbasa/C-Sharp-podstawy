@@ -1,0 +1,15 @@
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\bin\Debug\net6.0\zadanieKowersje2.exe
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\bin\Debug\net6.0\zadanieKowersje2.deps.json
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\bin\Debug\net6.0\zadanieKowersje2.runtimeconfig.json
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\bin\Debug\net6.0\zadanieKowersje2.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\bin\Debug\net6.0\zadanieKowersje2.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\obj\Debug\net6.0\zadanieKowersje2.csproj.AssemblyReference.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\obj\Debug\net6.0\zadanieKowersje2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\obj\Debug\net6.0\zadanieKowersje2.AssemblyInfoInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\obj\Debug\net6.0\zadanieKowersje2.AssemblyInfo.cs
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\obj\Debug\net6.0\zadanieKowersje2.csproj.CoreCompileInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\obj\Debug\net6.0\zadanieKowersje2.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\obj\Debug\net6.0\refint\zadanieKowersje2.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\obj\Debug\net6.0\zadanieKowersje2.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\obj\Debug\net6.0\zadanieKowersje2.genruntimeconfig.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje2\zadanieKowersje2\zadanieKowersje2\obj\Debug\net6.0\ref\zadanieKowersje2.dll

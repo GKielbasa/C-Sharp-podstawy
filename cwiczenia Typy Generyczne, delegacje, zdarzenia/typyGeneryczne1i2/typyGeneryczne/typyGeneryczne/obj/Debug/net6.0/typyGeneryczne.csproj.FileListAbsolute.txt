@@ -1,0 +1,15 @@
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\bin\Debug\net6.0\typyGeneryczne.exe
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\bin\Debug\net6.0\typyGeneryczne.deps.json
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\bin\Debug\net6.0\typyGeneryczne.runtimeconfig.json
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\bin\Debug\net6.0\typyGeneryczne.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\bin\Debug\net6.0\typyGeneryczne.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\obj\Debug\net6.0\typyGeneryczne.csproj.AssemblyReference.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\obj\Debug\net6.0\typyGeneryczne.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\obj\Debug\net6.0\typyGeneryczne.AssemblyInfoInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\obj\Debug\net6.0\typyGeneryczne.AssemblyInfo.cs
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\obj\Debug\net6.0\typyGeneryczne.csproj.CoreCompileInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\obj\Debug\net6.0\typyGeneryczne.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\obj\Debug\net6.0\refint\typyGeneryczne.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\obj\Debug\net6.0\typyGeneryczne.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\obj\Debug\net6.0\typyGeneryczne.genruntimeconfig.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\typyGeneryczne1i2\typyGeneryczne\typyGeneryczne\obj\Debug\net6.0\ref\typyGeneryczne.dll

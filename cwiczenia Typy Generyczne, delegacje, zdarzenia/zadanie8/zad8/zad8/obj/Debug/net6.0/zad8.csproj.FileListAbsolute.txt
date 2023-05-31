@@ -1,0 +1,15 @@
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\bin\Debug\net6.0\zad8.exe
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\bin\Debug\net6.0\zad8.deps.json
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\bin\Debug\net6.0\zad8.runtimeconfig.json
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\bin\Debug\net6.0\zad8.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\bin\Debug\net6.0\zad8.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\obj\Debug\net6.0\zad8.csproj.AssemblyReference.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\obj\Debug\net6.0\zad8.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\obj\Debug\net6.0\zad8.AssemblyInfoInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\obj\Debug\net6.0\zad8.AssemblyInfo.cs
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\obj\Debug\net6.0\zad8.csproj.CoreCompileInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\obj\Debug\net6.0\zad8.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\obj\Debug\net6.0\refint\zad8.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\obj\Debug\net6.0\zad8.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\obj\Debug\net6.0\zad8.genruntimeconfig.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\zadanie8\zad8\zad8\obj\Debug\net6.0\ref\zad8.dll

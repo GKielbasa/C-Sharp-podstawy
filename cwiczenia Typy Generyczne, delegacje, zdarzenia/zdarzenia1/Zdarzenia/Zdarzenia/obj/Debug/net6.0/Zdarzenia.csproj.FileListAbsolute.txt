@@ -1,0 +1,15 @@
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\obj\Debug\net6.0\Zdarzenia.csproj.AssemblyReference.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\obj\Debug\net6.0\Zdarzenia.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\obj\Debug\net6.0\Zdarzenia.AssemblyInfoInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\obj\Debug\net6.0\Zdarzenia.AssemblyInfo.cs
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\obj\Debug\net6.0\Zdarzenia.csproj.CoreCompileInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\bin\Debug\net6.0\Zdarzenia.exe
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\bin\Debug\net6.0\Zdarzenia.deps.json
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\bin\Debug\net6.0\Zdarzenia.runtimeconfig.json
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\bin\Debug\net6.0\Zdarzenia.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\bin\Debug\net6.0\Zdarzenia.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\obj\Debug\net6.0\Zdarzenia.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\obj\Debug\net6.0\refint\Zdarzenia.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\obj\Debug\net6.0\Zdarzenia.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\obj\Debug\net6.0\Zdarzenia.genruntimeconfig.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\zdarzenia1\Zdarzenia\Zdarzenia\obj\Debug\net6.0\ref\Zdarzenia.dll

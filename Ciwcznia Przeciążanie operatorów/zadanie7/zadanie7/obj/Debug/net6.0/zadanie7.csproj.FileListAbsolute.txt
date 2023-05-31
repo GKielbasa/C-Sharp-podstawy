@@ -1,0 +1,15 @@
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\bin\Debug\net6.0\zadanie7.exe
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\bin\Debug\net6.0\zadanie7.deps.json
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\bin\Debug\net6.0\zadanie7.runtimeconfig.json
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\bin\Debug\net6.0\zadanie7.dll
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\bin\Debug\net6.0\zadanie7.pdb
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\obj\Debug\net6.0\zadanie7.csproj.AssemblyReference.cache
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\obj\Debug\net6.0\zadanie7.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\obj\Debug\net6.0\zadanie7.AssemblyInfoInputs.cache
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\obj\Debug\net6.0\zadanie7.AssemblyInfo.cs
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\obj\Debug\net6.0\zadanie7.csproj.CoreCompileInputs.cache
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\obj\Debug\net6.0\zadanie7.dll
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\obj\Debug\net6.0\refint\zadanie7.dll
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\obj\Debug\net6.0\zadanie7.pdb
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\obj\Debug\net6.0\zadanie7.genruntimeconfig.cache
+D:\2 rok\C#\zadanieDomoweZestaw4PrzeciazenieOp_Grzegorz_Kielbasa\zadanie7\zadanie7\obj\Debug\net6.0\ref\zadanie7.dll

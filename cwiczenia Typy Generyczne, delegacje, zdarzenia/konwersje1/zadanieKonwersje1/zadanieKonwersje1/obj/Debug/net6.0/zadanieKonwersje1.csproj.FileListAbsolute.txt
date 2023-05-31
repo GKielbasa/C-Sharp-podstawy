@@ -1,0 +1,15 @@
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\bin\Debug\net6.0\zadanieKonwersje1.exe
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\bin\Debug\net6.0\zadanieKonwersje1.deps.json
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\bin\Debug\net6.0\zadanieKonwersje1.runtimeconfig.json
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\bin\Debug\net6.0\zadanieKonwersje1.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\bin\Debug\net6.0\zadanieKonwersje1.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\obj\Debug\net6.0\zadanieKonwersje1.csproj.AssemblyReference.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\obj\Debug\net6.0\zadanieKonwersje1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\obj\Debug\net6.0\zadanieKonwersje1.AssemblyInfoInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\obj\Debug\net6.0\zadanieKonwersje1.AssemblyInfo.cs
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\obj\Debug\net6.0\zadanieKonwersje1.csproj.CoreCompileInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\obj\Debug\net6.0\zadanieKonwersje1.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\obj\Debug\net6.0\refint\zadanieKonwersje1.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\obj\Debug\net6.0\zadanieKonwersje1.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\obj\Debug\net6.0\zadanieKonwersje1.genruntimeconfig.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\konwersje1\zadanieKonwersje1\zadanieKonwersje1\obj\Debug\net6.0\ref\zadanieKonwersje1.dll

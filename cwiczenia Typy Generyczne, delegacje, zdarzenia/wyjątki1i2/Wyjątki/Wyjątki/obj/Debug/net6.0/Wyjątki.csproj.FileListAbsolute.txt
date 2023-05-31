@@ -1,0 +1,15 @@
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\bin\Debug\net6.0\Wyjątki.exe
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\bin\Debug\net6.0\Wyjątki.deps.json
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\bin\Debug\net6.0\Wyjątki.runtimeconfig.json
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\bin\Debug\net6.0\Wyjątki.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\bin\Debug\net6.0\Wyjątki.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\obj\Debug\net6.0\Wyjątki.csproj.AssemblyReference.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\obj\Debug\net6.0\Wyjątki.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\obj\Debug\net6.0\Wyjątki.AssemblyInfoInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\obj\Debug\net6.0\Wyjątki.AssemblyInfo.cs
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\obj\Debug\net6.0\Wyjątki.csproj.CoreCompileInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\obj\Debug\net6.0\Wyjątki.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\obj\Debug\net6.0\refint\Wyjątki.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\obj\Debug\net6.0\Wyjątki.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\obj\Debug\net6.0\Wyjątki.genruntimeconfig.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\wyjątki1i2\Wyjątki\Wyjątki\obj\Debug\net6.0\ref\Wyjątki.dll

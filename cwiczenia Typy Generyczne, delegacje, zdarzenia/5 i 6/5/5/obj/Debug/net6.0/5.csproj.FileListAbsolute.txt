@@ -1,0 +1,5 @@
+D:\2 rok\C#\zadanieGigaZestawInterface\5\5\5\obj\Debug\net6.0\5.csproj.AssemblyReference.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\5\5\5\obj\Debug\net6.0\5.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 rok\C#\zadanieGigaZestawInterface\5\5\5\obj\Debug\net6.0\5.AssemblyInfoInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\5\5\5\obj\Debug\net6.0\5.AssemblyInfo.cs
+D:\2 rok\C#\zadanieGigaZestawInterface\5\5\5\obj\Debug\net6.0\5.csproj.CoreCompileInputs.cache

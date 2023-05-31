@@ -1,0 +1,15 @@
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\bin\Debug\net6.0\Delegacie.exe
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\bin\Debug\net6.0\Delegacie.deps.json
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\bin\Debug\net6.0\Delegacie.runtimeconfig.json
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\bin\Debug\net6.0\Delegacie.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\bin\Debug\net6.0\Delegacie.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\obj\Debug\net6.0\Delegacie.csproj.AssemblyReference.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\obj\Debug\net6.0\Delegacie.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\obj\Debug\net6.0\Delegacie.AssemblyInfoInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\obj\Debug\net6.0\Delegacie.AssemblyInfo.cs
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\obj\Debug\net6.0\Delegacie.csproj.CoreCompileInputs.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\obj\Debug\net6.0\Delegacie.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\obj\Debug\net6.0\refint\Delegacie.dll
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\obj\Debug\net6.0\Delegacie.pdb
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\obj\Debug\net6.0\Delegacie.genruntimeconfig.cache
+D:\2 rok\C#\zadanieGigaZestawInterface\delegacie\Delegacie\Delegacie\obj\Debug\net6.0\ref\Delegacie.dll

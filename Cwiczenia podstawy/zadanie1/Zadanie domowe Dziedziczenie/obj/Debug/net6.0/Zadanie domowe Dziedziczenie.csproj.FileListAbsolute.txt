@@ -1,0 +1,30 @@
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\bin\Debug\net6.0\Zadanie domowe Dziedziczenie.exe
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\bin\Debug\net6.0\Zadanie domowe Dziedziczenie.deps.json
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\bin\Debug\net6.0\Zadanie domowe Dziedziczenie.runtimeconfig.json
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\bin\Debug\net6.0\Zadanie domowe Dziedziczenie.dll
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\bin\Debug\net6.0\Zadanie domowe Dziedziczenie.pdb
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.csproj.AssemblyReference.cache
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.AssemblyInfoInputs.cache
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.AssemblyInfo.cs
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.csproj.CoreCompileInputs.cache
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.dll
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\refint\Zadanie domowe Dziedziczenie.dll
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.pdb
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.genruntimeconfig.cache
+D:\2 rok\C#\zadanie domowe dziedziczenie\Zadanie domowe Dziedziczenie\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\ref\Zadanie domowe Dziedziczenie.dll
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\bin\Debug\net6.0\Zadanie domowe Dziedziczenie.exe
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\bin\Debug\net6.0\Zadanie domowe Dziedziczenie.deps.json
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\bin\Debug\net6.0\Zadanie domowe Dziedziczenie.runtimeconfig.json
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\bin\Debug\net6.0\Zadanie domowe Dziedziczenie.dll
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\bin\Debug\net6.0\Zadanie domowe Dziedziczenie.pdb
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.csproj.AssemblyReference.cache
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.AssemblyInfoInputs.cache
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.AssemblyInfo.cs
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.csproj.CoreCompileInputs.cache
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.dll
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\refint\Zadanie domowe Dziedziczenie.dll
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.pdb
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\Zadanie domowe Dziedziczenie.genruntimeconfig.cache
+D:\2 rok\C#\zadanie domowe dziedziczenie\pudełko\Zadanie domowe Dziedziczenie\obj\Debug\net6.0\ref\Zadanie domowe Dziedziczenie.dll
